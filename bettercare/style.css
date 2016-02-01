@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Reposcanner Child
+ Theme URI:    https://github.com/electricbookworks/reposcanner
+ Description:  Reposcanner child theme for Bettercare
+ Author:       Arthur Attwell
+ Author URI:   http://arthurattwell.com
+ Template:     reposcanner
+ Text Domain:  reposcanner
+*/
+
+.widget {
+    max-width: 15em;
+}
+.tagcloud {
+    width: 10em;
+}
